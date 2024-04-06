@@ -1,2 +1,0 @@
-# barcode-scanner
-using SDK
